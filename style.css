@@ -94,7 +94,7 @@ top: 400px;
 text-align: center;
 color: orange;
 margin-top: 300px;
-margin-bottom:
+margin-bottom: 0px;
 }
 #first{
   position: relative;
@@ -104,7 +104,7 @@ background: rgba(0, 0, 0, 0.7);
 text-align: center;
 color: white;
 /* margin-top: 300px; */
-margin-bottom:
+margin-bottom:0px;
 }
 /* buttons of the index admission and contact */
 
@@ -290,7 +290,7 @@ width: 100%;
   border-collapse: collapse;
   border-spacing: 0;
   width: 60%;
-  height: auto;\
+  height: auto;
   resize: both;
   margin-left: auto;
   margin-right:auto;
@@ -437,4 +437,3 @@ margin-top: 20px;
 }
 /*end of  style of felicitation wall*/
 
-.gallery
